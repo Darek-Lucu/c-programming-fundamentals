@@ -1,0 +1,20 @@
+# Compiled C files
+*.o
+*.obj
+*.out
+*.exe
+
+# Debug/build output
+*.pdb
+*.ilk
+*.idb
+build/
+
+# IDE settings
+.vs/
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
